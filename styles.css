@@ -240,7 +240,7 @@ img {
   background-color: var(--pink);
 }
 
-img:active {
+img:hover {
   transform: scale(1.25);
   cursor: not-allowed;
 }
