@@ -242,7 +242,6 @@ img {
 
 img:hover {
   transform: scale(1.25);
-  cursor: not-allowed;
 }
 
 .project-title.none {
